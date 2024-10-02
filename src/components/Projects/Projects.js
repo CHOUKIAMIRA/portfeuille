@@ -43,18 +43,9 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           {/* Première carte */}
-          <Col md={12} className="project-card">
-            <ProjectCard
-              imagePaths={imageList} // Tableau des images
-              isBlog={false}
-              title="To Do List"
-              description="A responsive to-do list that allows adding tasks via a component or a calendar, with days containing tasks marked in red. Tasks can be edited, marked as completed or not completed. Each day, the tasks to be done are automatically displayed, with toast notifications after each CRUD operation. The data is stored locally using localStorage."
-              ghLink="https://github.com/CHOUKIAMIRA/todolist"
-              demoLink="https://CHOUKIAMIRA.github.io/todolist"
-            />
-          </Col>
+         
 
-          {/* Deuxième carte */}
+       
           <Col md={12} className="project-card">
             <ProjectCard
               imagePaths={imageGame}
@@ -66,6 +57,18 @@ function Projects() {
             />
           </Col>
 
+             {/* Deuxième carte */}
+          <Col md={12} className="project-card">
+            <ProjectCard
+              imagePaths={imageList} // Tableau des images
+              isBlog={false}
+              title="To Do List"
+              description="A responsive to-do list that allows adding tasks via a component or a calendar, with days containing tasks marked in red. Tasks can be edited, marked as completed or not completed. Each day, the tasks to be done are automatically displayed, with toast notifications after each CRUD operation. The data is stored locally using localStorage."
+              ghLink="https://github.com/CHOUKIAMIRA/todolist"
+              demoLink="https://CHOUKIAMIRA.github.io/todolist"
+            />
+          </Col>
+          
           {/* Troisième carte */}
           <Col md={12} className="project-card">
             <ProjectCard
