@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfeuille/static/css/main.8a8dce88.css",
+    "main.js": "/portfeuille/static/js/main.f1161efd.js",
+    "static/js/453.e3ab02d2.chunk.js": "/portfeuille/static/js/453.e3ab02d2.chunk.js",
+    "static/media/amoura.png": "/portfeuille/static/media/amoura.4fa8d104064cdd7f8040.png",
+    "static/media/image10.PNG": "/portfeuille/static/media/image10.94bc8ec7b089748ce99e.PNG",
+    "static/media/image12.PNG": "/portfeuille/static/media/image12.10b2b2269d043b492aa4.PNG",
+    "static/media/cv.pdf": "/portfeuille/static/media/cv.410d63c34b262005236e.pdf",
+    "static/media/image7.PNG": "/portfeuille/static/media/image7.b2e86dfdf96b7e2bb7d4.PNG",
+    "static/media/image3.PNG": "/portfeuille/static/media/image3.8fbcd4a4348ef299da8a.PNG",
+    "static/media/game3.PNG": "/portfeuille/static/media/game3.e3f9c9168bc35d45a038.PNG",
+    "static/media/image2.PNG": "/portfeuille/static/media/image2.44ae2ad44ad59b4b5dc9.PNG",
+    "static/media/image5.PNG": "/portfeuille/static/media/image5.d42de2abcb48b7572ae0.PNG",
+    "static/media/image1.PNG": "/portfeuille/static/media/image1.34e86bf4f322bdb62e9a.PNG",
+    "static/media/game2.PNG": "/portfeuille/static/media/game2.f44241cbdcc72c055ac5.PNG",
+    "static/media/image4.PNG": "/portfeuille/static/media/image4.563aff5ddc1113e2dfa8.PNG",
+    "static/media/image13.PNG": "/portfeuille/static/media/image13.27a93c45e86e3de66eee.PNG",
+    "static/media/image14.PNG": "/portfeuille/static/media/image14.795ecd96c284544fa4cc.PNG",
+    "static/media/image6.PNG": "/portfeuille/static/media/image6.1a61c57a8059845cd2fa.PNG",
+    "static/media/image8.PNG": "/portfeuille/static/media/image8.61963cca2dee3977a18c.PNG",
+    "static/media/image11.PNG": "/portfeuille/static/media/image11.c44392a9b92587432d06.PNG",
+    "static/media/image9.PNG": "/portfeuille/static/media/image9.c650fb38a897b6172096.PNG",
+    "static/media/home-bg.jpg": "/portfeuille/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/game4.PNG": "/portfeuille/static/media/game4.e618e3ae416f127e6c4e.PNG",
+    "static/media/list3.PNG": "/portfeuille/static/media/list3.91d94b45c57a71f6176d.PNG",
+    "static/media/list1.PNG": "/portfeuille/static/media/list1.f5447e0e301c5a24f417.PNG",
+    "static/media/list2.PNG": "/portfeuille/static/media/list2.1a7fd4dad7be78c39bc3.PNG",
+    "static/media/game1.PNG": "/portfeuille/static/media/game1.e8e6b1a2bf1c8bf1be3b.PNG",
+    "static/media/pre.svg": "/portfeuille/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfeuille/index.html",
+    "main.8a8dce88.css.map": "/portfeuille/static/css/main.8a8dce88.css.map",
+    "main.f1161efd.js.map": "/portfeuille/static/js/main.f1161efd.js.map",
+    "453.e3ab02d2.chunk.js.map": "/portfeuille/static/js/453.e3ab02d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a8dce88.css",
+    "static/js/main.f1161efd.js"
+  ]
+}
