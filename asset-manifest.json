@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfeuille/static/css/main.8e137218.css",
-    "main.js": "/portfeuille/static/js/main.fc35ee15.js",
+    "main.js": "/portfeuille/static/js/main.35d6ef2b.js",
     "static/js/453.e3ab02d2.chunk.js": "/portfeuille/static/js/453.e3ab02d2.chunk.js",
     "static/media/photo-cv.jpg": "/portfeuille/static/media/photo-cv.7436541539b2b2ae1955.jpg",
     "static/media/amoura.png": "/portfeuille/static/media/amoura.4fa8d104064cdd7f8040.png",
@@ -24,17 +24,17 @@
     "static/media/home-bg.jpg": "/portfeuille/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/game4.PNG": "/portfeuille/static/media/game4.e618e3ae416f127e6c4e.PNG",
     "static/media/list3.PNG": "/portfeuille/static/media/list3.91d94b45c57a71f6176d.PNG",
-    "static/media/list1.PNG": "/portfeuille/static/media/list1.f5447e0e301c5a24f417.PNG",
+    "static/media/list1.PNG": "/portfeuille/static/media/list1.1773ae7870cbaa98912f.PNG",
     "static/media/list2.PNG": "/portfeuille/static/media/list2.1a7fd4dad7be78c39bc3.PNG",
     "static/media/game1.PNG": "/portfeuille/static/media/game1.e8e6b1a2bf1c8bf1be3b.PNG",
     "static/media/pre.svg": "/portfeuille/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfeuille/index.html",
     "main.8e137218.css.map": "/portfeuille/static/css/main.8e137218.css.map",
-    "main.fc35ee15.js.map": "/portfeuille/static/js/main.fc35ee15.js.map",
+    "main.35d6ef2b.js.map": "/portfeuille/static/js/main.35d6ef2b.js.map",
     "453.e3ab02d2.chunk.js.map": "/portfeuille/static/js/453.e3ab02d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e137218.css",
-    "static/js/main.fc35ee15.js"
+    "static/js/main.35d6ef2b.js"
   ]
 }
